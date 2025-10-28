@@ -46,17 +46,44 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 
 ## 📸 Screenshots
 
-### 🧠 Disease Detection Dashboard
-![Dashboard](./screenshots/dashboard.png)
+### 🧠 Intelligent Chatbot
+![Chatbot](./screenshots/chatboot.png)
 
-### 🩺 Bilan (Medical Report)
-![Bilan](./screenshots/bilan.png)
+### 🔑 Authentication
+![Login](./screenshots/connecter.png)
+![Register](./screenshots/inscrire.png)
+![Forgot Password](./screenshots/motoublier.png)
+![Reset Password](./screenshots/reinitialmot.png)
 
-### 💬 Chatbot
-![Chatbot](./screenshots/chatbot.png)
+### 👤 User Profile
+![Profile](./screenshots/profil.png)
 
-### 🍎 Nutrition Recommendation
-![Nutrition Page](./screenshots/nutrition-page.png)
+### 🧪 Medical Tests
+![Ultrasound Test](./screenshots/testecho.png)
+![Endometrium Test](./screenshots/testendometre.png)
+![PCOS Test](./screenshots/testsopk.png)
+
+### 🧠 Depression Detection
+![Depression Info](./screenshots/depressioinfo.png)
+![Depression Result - Yes](./screenshots/resdepressionoui.png)
+![Depression Result - No](./screenshots/resdepressionnon.png)
+
+### 🩺 PCOS Detection
+![PCOS Info](./screenshots/sopkinfos.png)
+![PCOS Result - Yes](./screenshots/resultsopkoui.png)
+![PCOS Result - No](./screenshots/resultsopknon.png)
+![PCOS Diet](./screenshots/regimesopk.png)
+
+### 🩺 Endometrium Detection
+![Endometrium Info](./screenshots/endometreinfos.png)
+![Endometrium Result - Yes](./screenshots/resultatendometreoui.png)
+![Endometrium Result - No](./screenshots/resultatendometrenon.png)
+![Endometrium Diet](./screenshots/regimeendometre.png)
+
+### 🩻 Ultrasound Results
+![Infected](./screenshots/resultatechoinfecte.png)
+![Healthy](./screenshots/resultechosain.png)
+
 
 
 ## 👩‍💻 Author
