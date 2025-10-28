@@ -59,14 +59,9 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 ![Nutrition Page](./screenshots/nutrition-page.png)
 
 
-## 📄 Project Report
-
-📘 [Download PDF Report](./docs/SOPK_IA_Project_Report.pdf)
-
-
 ## 👩‍💻 Author
 
-**N. Khazri**  
+**N.Khazri**  
 🎓 Final Year Project – 2025  
 💡 *AI and Women’s Health: PCOS Detection & Personalized Nutrition Platform*  
 🌐 [https://www.linkedin.com/feed/]
@@ -75,7 +70,7 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 
 ## ⚖️ License
 
-All rights reserved © 2025 **N. Khazri**  
+All rights reserved © 2025 **N.Khazri**  
 This repository is for **academic and presentation purposes only**.  
 
 
