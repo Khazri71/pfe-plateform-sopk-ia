@@ -55,11 +55,20 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 ![Forgot Password](./screenshots/motoublier.png)
 ![Reset Password](./screenshots/reinitialmot.png)
 
-### 👤 User Profile
-![Profile](./screenshots/profil.png)
+
+### 🩺 PCOS Detection
+![PCOS Info](./screenshots/sopkinfos.png)
+![PCOS Result - Yes](./screenshots/resultsopkoui.png)
+![PCOS Result - No](./screenshots/resultsopknon.png)
+
+### 🥗 PCOS Diet
+![PCOS Diet](./screenshots/regimesopk.png)
+
 
 ### 🧪 Medical Tests
 ![Ultrasound Test](./screenshots/testecho.png)
+![Infected](./screenshots/resultatechoinfecte.png)
+![Healthy](./screenshots/resultechosain.png)
 ![Endometrium Test](./screenshots/testendometre.png)
 ![PCOS Test](./screenshots/testsopk.png)
 
@@ -68,11 +77,6 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 ![Depression Result - Yes](./screenshots/resdepressionoui.png)
 ![Depression Result - No](./screenshots/resdepressionnon.png)
 
-### 🩺 PCOS Detection
-![PCOS Info](./screenshots/sopkinfos.png)
-![PCOS Result - Yes](./screenshots/resultsopkoui.png)
-![PCOS Result - No](./screenshots/resultsopknon.png)
-![PCOS Diet](./screenshots/regimesopk.png)
 
 ### 🩺 Endometrium Detection
 ![Endometrium Info](./screenshots/endometreinfos.png)
@@ -80,9 +84,8 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 ![Endometrium Result - No](./screenshots/resultatendometrenon.png)
 ![Endometrium Diet](./screenshots/regimeendometre.png)
 
-### 🩻 Ultrasound Results
-![Infected](./screenshots/resultatechoinfecte.png)
-![Healthy](./screenshots/resultechosain.png)
+### 👤 User Profile
+![Profile](./screenshots/profil.png)
 
 
 
