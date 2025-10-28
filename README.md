@@ -43,11 +43,13 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 [▶️ YouTube – SOPK IA Platform Demo](https://www.youtube.com/watch?v=cusfKSZi1do)
 
 ---
+### 📄 Concept Diagram
+[View Concept Diagram (PDF)](./docs/concept-diagram.pdf)
+
+
+---
 
 ## 📸 Screenshots
-
-### 🧠 Intelligent Chatbot
-![Chatbot](./screenshots/chatboot.png)
 
 ### 🔑 Authentication
 ![Login](./screenshots/connecter.png)
@@ -58,6 +60,7 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 
 ### 🩺 PCOS Detection
 ![PCOS Info](./screenshots/sopkinfos.png)
+![PCOS Test](./screenshots/testsopk.png)
 ![PCOS Result - Yes](./screenshots/resultsopkoui.png)
 ![PCOS Result - No](./screenshots/resultsopknon.png)
 
@@ -70,10 +73,11 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 ![Infected](./screenshots/resultatechoinfecte.png)
 ![Healthy](./screenshots/resultechosain.png)
 ![Endometrium Test](./screenshots/testendometre.png)
-![PCOS Test](./screenshots/testsopk.png)
 
 ### 🧠 Depression Detection
 ![Depression Info](./screenshots/depressioinfo.png)
+### 🧠 Intelligent Chatbot
+![Chatbot](./screenshots/chatboot.png)
 ![Depression Result - Yes](./screenshots/resdepressionoui.png)
 ![Depression Result - No](./screenshots/resdepressionnon.png)
 
