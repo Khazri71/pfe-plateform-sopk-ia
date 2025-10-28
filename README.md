@@ -44,7 +44,8 @@ It also provides a **comprehensive medical report (bilan)** summarizing all test
 
 ---
 ### 📄 Concept Diagram
-[View Concept Diagram (PDF)](./screenshots/diagramp.png)
+[View Concept Diagram (PDF)](./screenshots/diagram.pdf)
+![Register](./screenshots/diagramp.png)
 
 
 ---
